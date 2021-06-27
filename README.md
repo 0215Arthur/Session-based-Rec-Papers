@@ -1,18 +1,27 @@
 # Session-based-Rec-Papers
 Papers of Session-based Recommendation from top conf/journals.
 
- This repo mainly collects some papers on the Session-based Recommendation research (Sequential recommendataion) from the top conference (e.g. KDD, CIKM and AAAI) and journals.
+ This repo mainly collects some papers on the Session-based Recommendation research (also includes some papers about Sequential recommendataion) from the top conference (e.g. KDD, CIKM and AAAI) and journals.
 
- We will update the latest published papers from time to time... 
+ We will update the latest published papers... 
+
+
+> [**Sequential Recommendation v.s Session-Based Recomendation**](https://arxiv.org/abs/1902.04864)
+SBRSs and SRSs are built on session data and sequence data respectively, while they are often
+mixed up by some readers. So it is necessary to first clarify the difference between session data and sequence data. A session is a list of interactions with a clear boundary, while the interactions may be chronologically ordered (in ordered sessions), or unordered (in unordered sessions).
+
+![avatar](./survey/survey.png)
 
 -----
 
 
   ### Review Paper List
-|  Title   |  Authors/Team  |   Key Contributions    |  Source  |
-|  ----  | ----  |   ----  | ----  |
-| [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.9437&rep=rep1&type=pdf) |  | Recsys'2019 |
-
+|  Title  |   Key Contributions    |  Source  |
+| :----  |   ----  | ----  |
+| [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.9437&rep=rep1&type=pdf) | detailed datasets and benchmarks of session-based rec | Recsys'2019 |
+| [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](/survey/Sequential%20Recommender%20Systems-%20Challenges,%20Progress%20and%20Prospects.pdf)| a brief survey of Sequentail Rec| IJCAI'2019 |
+|[A Survey on Session-based Recommender Systems](https://arxiv.org/abs/1902.04864)| A detailed survey about sbr | | 
+|[Deep Learning for Sequential Recommendation: Algorithms,Influential Factors, and Evaluations](./survey/surveypdf.pdf)| | ACM Transactions on Information Systems, 2020| 
 -----
 
 ### Research Paper List
