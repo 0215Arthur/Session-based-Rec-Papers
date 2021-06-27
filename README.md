@@ -17,6 +17,24 @@ Papers of Session-based Recommendation from top conf/journals.
 
 ### Research Paper List
 
+
+
+#### RNN-based Methods
+
+| Title                                                        | Key Contributions                                | Source     | Chinese Blogs | original code |
+| ------------------------------------------------------------ | ------------------------------------------------ | ---------- | ------------- | ------------- |
+|                                                              |                                                  |            |               |               |
+| [Neural Attentive Session-based Recommendation](https://arxiv.org/pdf/1711.04725.pdf) | GRU+Last item Attention                          | CIKM'2017  |               |               |
+| [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) |                                                  | CIKM'2019  |               |               |
+|                                                              |                                                  |            |               |               |
+| [Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation]([PRELIMINARY VERSION DO NOT CITE (aaai.org)](https://www.aaai.org/AAAI21Papers/AAAI-5262.LiuC.pdf)) |                                                  | AAAI'2021  |               |               |
+| [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation]([Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation \|Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3397271.3401098)) | Introcoption interaction type and item knowledge | SIGIR'2020 |               |               |
+| [Disentangled Self-Supervision in Sequential Recommenders]([Disentangled Self-Supervision in Sequential Recommenders (researchgate.net)](https://www.researchgate.net/profile/Xin-Wang-532/publication/343785856_Disentangled_Self-Supervision_in_Sequential_Recommenders/links/5f4f9dd392851c250b893dbd/Disentangled-Self-Supervision-in-Sequential-Recommenders.pdf)) |                                                  | KDD'2020   |               |               |
+
+
+
+
+
 #### GNN-based Methods
 
 |  Title     |   Key Contributions    |  Source  | Chinese Blogs| original code |
